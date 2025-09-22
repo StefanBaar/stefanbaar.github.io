@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Postdoctoral Researcher at Muroran Institute of Technology in Japan.
+Postdoctoral Researcher at Hokkaido University in Japan.
 
 ## Research Interests
 
