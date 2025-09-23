@@ -1,16 +1,16 @@
-# Basic Information 
+# Basic Information
 title: Stefan Baar
 position: Postdoctoral Researcher
 affiliation: Hokkaido University
 email: sbaar (at) ist.hokudai.ac.jp
-
+repository: StefanBaar/stefanbaar.github.io
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: stefan baar hokkaido university バール シュテファン 北海道大学
 description: Website of Stefan Baar
 canonical: https://stefanbaar.com/
 
-# Links 
+# Links
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=W_4mirsAAAAJ&hl
 cv_link: assets/files/stefanbaarCV_en.pdf
@@ -19,8 +19,8 @@ instagram_link: https://www.instagram.com/steffiec137/
 w500px_link: https://500px.com/sbaar
 
 
-# Images (e.g., your profile picture and your website's favicon) 
-# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+# Images (e.g., your profile picture and your website's favicon)
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
 avatar: ./assets/images/avatar.png
 favicon: ./assets/images/favicon.png
 favicon_dark: ./assets/images/favicon-dark.png
